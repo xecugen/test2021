@@ -1,1 +1,1 @@
-"# azure 실습용 data" 
+# Azure CosmosDB provisioning 및 실습용 data 
